@@ -13,17 +13,17 @@ class Program
         for (sbyte i = 0; i < n; i++)
         {
             Console.Write($"Command {i + 1}: ");
-            string[] command = Console.ReadLine().ToLower().Split();
+            string[] command = Console.ReadLine().Split();
 
-            if (command[0] == "reverse")
+            if (command[0] == "Reverse")
             {
                 ReverseArray(arr);
             }
-            else if (command[0] == "distinct")
+            else if (command[0] == "Distinct")
             {
                 arr = GetDistinctArray(arr);
             }
-            else if (command[0] == "replace")
+            else if (command[0] == "Replace")
             {
                 byte index = byte.Parse(command[1]);
                 string replacement = command[2];
