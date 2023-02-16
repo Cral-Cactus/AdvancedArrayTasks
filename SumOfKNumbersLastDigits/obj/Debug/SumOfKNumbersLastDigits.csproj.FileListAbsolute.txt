@@ -1,0 +1,8 @@
+D:\aaa\testt\AdvancedArrayTasks\SumOfKNumbersLastDigits\bin\Debug\SumOfKNumbersLastDigits.exe.config
+D:\aaa\testt\AdvancedArrayTasks\SumOfKNumbersLastDigits\bin\Debug\SumOfKNumbersLastDigits.exe
+D:\aaa\testt\AdvancedArrayTasks\SumOfKNumbersLastDigits\bin\Debug\SumOfKNumbersLastDigits.pdb
+D:\aaa\testt\AdvancedArrayTasks\SumOfKNumbersLastDigits\obj\Debug\SumOfKNumbersLastDigits.csproj.AssemblyReference.cache
+D:\aaa\testt\AdvancedArrayTasks\SumOfKNumbersLastDigits\obj\Debug\SumOfKNumbersLastDigits.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\AdvancedArrayTasks\SumOfKNumbersLastDigits\obj\Debug\SumOfKNumbersLastDigits.csproj.CoreCompileInputs.cache
+D:\aaa\testt\AdvancedArrayTasks\SumOfKNumbersLastDigits\obj\Debug\SumOfKNumbersLastDigits.exe
+D:\aaa\testt\AdvancedArrayTasks\SumOfKNumbersLastDigits\obj\Debug\SumOfKNumbersLastDigits.pdb

@@ -1,0 +1,8 @@
+D:\aaa\testt\AdvancedArrayTasks\ExtractTheMidleOfElements\bin\Debug\ExtractTheMidleOfElements.exe.config
+D:\aaa\testt\AdvancedArrayTasks\ExtractTheMidleOfElements\bin\Debug\ExtractTheMidleOfElements.exe
+D:\aaa\testt\AdvancedArrayTasks\ExtractTheMidleOfElements\bin\Debug\ExtractTheMidleOfElements.pdb
+D:\aaa\testt\AdvancedArrayTasks\ExtractTheMidleOfElements\obj\Debug\ExtractTheMidleOfElements.csproj.AssemblyReference.cache
+D:\aaa\testt\AdvancedArrayTasks\ExtractTheMidleOfElements\obj\Debug\ExtractTheMidleOfElements.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\AdvancedArrayTasks\ExtractTheMidleOfElements\obj\Debug\ExtractTheMidleOfElements.csproj.CoreCompileInputs.cache
+D:\aaa\testt\AdvancedArrayTasks\ExtractTheMidleOfElements\obj\Debug\ExtractTheMidleOfElements.exe
+D:\aaa\testt\AdvancedArrayTasks\ExtractTheMidleOfElements\obj\Debug\ExtractTheMidleOfElements.pdb

@@ -1,0 +1,8 @@
+D:\aaa\testt\AdvancedArrayTasks\ArrayProcessing\bin\Debug\ArrayProcessing.exe.config
+D:\aaa\testt\AdvancedArrayTasks\ArrayProcessing\bin\Debug\ArrayProcessing.exe
+D:\aaa\testt\AdvancedArrayTasks\ArrayProcessing\bin\Debug\ArrayProcessing.pdb
+D:\aaa\testt\AdvancedArrayTasks\ArrayProcessing\obj\Debug\ArrayProcessing.csproj.AssemblyReference.cache
+D:\aaa\testt\AdvancedArrayTasks\ArrayProcessing\obj\Debug\ArrayProcessing.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\AdvancedArrayTasks\ArrayProcessing\obj\Debug\ArrayProcessing.csproj.CoreCompileInputs.cache
+D:\aaa\testt\AdvancedArrayTasks\ArrayProcessing\obj\Debug\ArrayProcessing.exe
+D:\aaa\testt\AdvancedArrayTasks\ArrayProcessing\obj\Debug\ArrayProcessing.pdb

@@ -1,0 +1,8 @@
+D:\aaa\testt\AdvancedArrayTasks\LongestSequenceOfIncreasingElements\bin\Debug\LongestSequenceOfIncreasingElements.exe.config
+D:\aaa\testt\AdvancedArrayTasks\LongestSequenceOfIncreasingElements\bin\Debug\LongestSequenceOfIncreasingElements.exe
+D:\aaa\testt\AdvancedArrayTasks\LongestSequenceOfIncreasingElements\bin\Debug\LongestSequenceOfIncreasingElements.pdb
+D:\aaa\testt\AdvancedArrayTasks\LongestSequenceOfIncreasingElements\obj\Debug\LongestSequenceOfIncreasingElements.csproj.AssemblyReference.cache
+D:\aaa\testt\AdvancedArrayTasks\LongestSequenceOfIncreasingElements\obj\Debug\LongestSequenceOfIncreasingElements.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\AdvancedArrayTasks\LongestSequenceOfIncreasingElements\obj\Debug\LongestSequenceOfIncreasingElements.csproj.CoreCompileInputs.cache
+D:\aaa\testt\AdvancedArrayTasks\LongestSequenceOfIncreasingElements\obj\Debug\LongestSequenceOfIncreasingElements.exe
+D:\aaa\testt\AdvancedArrayTasks\LongestSequenceOfIncreasingElements\obj\Debug\LongestSequenceOfIncreasingElements.pdb

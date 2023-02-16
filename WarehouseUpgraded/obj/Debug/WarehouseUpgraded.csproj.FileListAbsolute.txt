@@ -1,0 +1,8 @@
+D:\aaa\testt\AdvancedArrayTasks\WarehouseUpgraded\bin\Debug\WarehouseUpgraded.exe.config
+D:\aaa\testt\AdvancedArrayTasks\WarehouseUpgraded\bin\Debug\WarehouseUpgraded.exe
+D:\aaa\testt\AdvancedArrayTasks\WarehouseUpgraded\bin\Debug\WarehouseUpgraded.pdb
+D:\aaa\testt\AdvancedArrayTasks\WarehouseUpgraded\obj\Debug\WarehouseUpgraded.csproj.AssemblyReference.cache
+D:\aaa\testt\AdvancedArrayTasks\WarehouseUpgraded\obj\Debug\WarehouseUpgraded.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\AdvancedArrayTasks\WarehouseUpgraded\obj\Debug\WarehouseUpgraded.csproj.CoreCompileInputs.cache
+D:\aaa\testt\AdvancedArrayTasks\WarehouseUpgraded\obj\Debug\WarehouseUpgraded.exe
+D:\aaa\testt\AdvancedArrayTasks\WarehouseUpgraded\obj\Debug\WarehouseUpgraded.pdb

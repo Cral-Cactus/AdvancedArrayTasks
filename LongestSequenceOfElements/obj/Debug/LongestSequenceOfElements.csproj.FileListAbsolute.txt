@@ -1,0 +1,8 @@
+D:\aaa\testt\AdvancedArrayTasks\LongestSequenceOfElements\bin\Debug\LongestSequenceOfElements.exe.config
+D:\aaa\testt\AdvancedArrayTasks\LongestSequenceOfElements\bin\Debug\LongestSequenceOfElements.exe
+D:\aaa\testt\AdvancedArrayTasks\LongestSequenceOfElements\bin\Debug\LongestSequenceOfElements.pdb
+D:\aaa\testt\AdvancedArrayTasks\LongestSequenceOfElements\obj\Debug\LongestSequenceOfElements.csproj.AssemblyReference.cache
+D:\aaa\testt\AdvancedArrayTasks\LongestSequenceOfElements\obj\Debug\LongestSequenceOfElements.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\AdvancedArrayTasks\LongestSequenceOfElements\obj\Debug\LongestSequenceOfElements.csproj.CoreCompileInputs.cache
+D:\aaa\testt\AdvancedArrayTasks\LongestSequenceOfElements\obj\Debug\LongestSequenceOfElements.exe
+D:\aaa\testt\AdvancedArrayTasks\LongestSequenceOfElements\obj\Debug\LongestSequenceOfElements.pdb
